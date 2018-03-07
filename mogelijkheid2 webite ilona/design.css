@@ -1,0 +1,80 @@
+body,html{
+	height: 100%;
+	margin:0;
+	
+}
+
+b{
+	font-size: 5.5vh;
+}
+
+p{
+	font-size:2.5vh;
+}
+.header {
+	z-index: 999;
+	position:sticky;
+	height:10%;
+	background-color:black;
+	color: white;
+	font-size:6vh;
+	text-align: center;
+	margin:0;
+}
+
+.foto1 {
+   
+	
+	/* The image used */
+	
+	
+    background-image: url("https://i.pinimg.com/736x/71/cd/5b/71cd5b44f2f3f62a9df8b1a437574191--stairs-google-search.jpg");
+
+    /* Set a specific height */
+	
+	
+	height: 100%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: middle;
+    background-repeat: no-repeat;
+    background-size: cover;
+	
+	margin:0;
+}
+
+.plainText{
+	height:20%;
+	background-color:white;
+	
+	
+	
+	
+	
+	text-align: center;
+	margin:0;
+	
+}
+
+
+.foto2{
+
+
+	
+	/* The image used */
+	
+	
+    background-image: url("https://petervan.files.wordpress.com/2012/12/esher.png");
+
+    /* Set a specific height */
+    height: 100%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;	
+	
+	margin:0;
+}
